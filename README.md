@@ -16,9 +16,9 @@ I'm always exploring new technologies and looking for opportunities to enhance m
   - email: <a href="mailto:ishimwekevin45@gmail.com">_ishimwekevin45@gmail.com_</a>
     <br>
   - or on socials<br>
-  <a href="https://www.linkedin.com/in/ishimwe-kevin-30538625a" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krmimgirmgkerkgnkng" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/profile.php?id=100006337833890&mibextid=ZbWKwL" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="30" width="40" /></a>
-<a href="https://instagram.com/kevin_ish_mw?igshid=ZDdkNTZiNTM=" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="idifjffjfnjnf" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/ishimwe-kevin-30538625a" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krmimgirmgkerkgnkng" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/profile.php?id=100006337833890&mibextid=ZbWKwL" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="30" width="40" /></a>
+<a href="https://instagram.com/kevin_ish_mw?igshid=ZDdkNTZiNTM=" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="idifjffjfnjnf" height="30" width="40" /></a>
 
 </p>
 

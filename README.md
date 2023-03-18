@@ -16,19 +16,12 @@ I'm always exploring new technologies and looking for opportunities to enhance m
   - email: <a href="mailto:ishimwekevin45@gmail.com">_ishimwekevin45@gmail.com_</a>
     <br>
   - or on socials<br>
-    <a href="https://www.linkedin.com/in/ishimwe-kevin-30538625a">
-    <i class="fab fa-linkedin" style="margin:1% 3%;font-size:x-large;color:lightblue;"></i>
-    </a>
-    <a href="https://instagram.com/kevin_ish_mw?igshid=ZDdkNTZiNTM=">
-    <i class="fab fa-instagram" style="margin:1% 3%;font-size:x-large;color:lightblue;"></i>
-    </a>
-    <a href="https://www.facebook.com/profile.php?id=100006337833890&mibextid=ZbWKwL">
-    <i class="fab fa-facebook" style="margin:1% 3%;font-size:x-large;color:lightblue;"></i>
-    </a>
-    <a href="https://wa.me/+250787882105">
-    <i class="fab fa-whatsapp" style="margin:1% 3%;font-size:x-large;color:lightblue;"></i>
-    </a>
-    <br>
+  <a href="https://www.linkedin.com/in/ishimwe-kevin-30538625a" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krmimgirmgkerkgnkng" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/profile.php?id=100006337833890&mibextid=ZbWKwL" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="30" width="40" /></a>
+<a href="https://instagram.com/kevin_ish_mw?igshid=ZDdkNTZiNTM=" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="idifjffjfnjnf" height="30" width="40" /></a>
+
+</p>
+
 
 # stacks and technologies
 

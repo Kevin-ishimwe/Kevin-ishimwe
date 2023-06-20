@@ -50,5 +50,5 @@ Here are some statistics about my GitHub profile:
 
 not convinced yet! you can always checkout my portfolio website
 
-![Alt text](https://firebasestorage.googleapis.com/v0/b/my-brand-kevin.appspot.com/o/myResume%2Fportfolio.JPG?alt=media&token=e760039e-da19-4d86-a01a-3e220068781f)
+
 [my portfolio website](https://kevin-ishimwe.github.io/my-brand-react-app/)

@@ -7,10 +7,8 @@ As a passionate
 <span style="color:lightgreen" > **_full-stack web developer_**,</span>
 I'm always exploring new technologies and looking for opportunities to enhance my skills.
 
-- 🔭 I’m currently working on an e-commerce webapp at ATLP.
-- 🌱 I’m currently learning TypeScript.
-- 👯 I’m looking to collaborate on any interesting projects(webapps/websites).
-- 💬 Ask me about JavaScript and anything related to web development.
+- 👯 I’m looking to collaborate on any interesting projects .
+- 💬 Ask me about JavaScript and python .
 - ⚡ Fun fact: The first banner ad appeared on the web in 1994 and had a click-through rate of 44%,talk about click bait
 - 📫 you can always reach me:
   - email: <a href="mailto:ishimwekevin45@gmail.com">_ishimwekevin45@gmail.com_</a>

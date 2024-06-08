@@ -12,7 +12,7 @@
 
 im **Kevin ishimwe** and I am excited to welcome you to my ✨ _github account_ ✨.
 As a passionate
-<span style="color:lightgreen" > **_i write code_**,</span>
+<span style="color:lightgreen" > **_developer_**,</span>
 I'm always exploring new technologies and looking for opportunities to enhance my skills.
 
 - 🔭 I’m currently working on an e-commerce webapp at ATLP.

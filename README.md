@@ -8,7 +8,7 @@
     url("https://github.com/Kevin-ishimwe/Kevin-ishimwe/blob/main/bg1.png?raw=true");]{x0000}$}
 ```
 
-## Hi there 👋
+## Welcome to my </>
 
 im **Kevin ishimwe** and I am excited to welcome you to my ✨ _github account_ ✨.
 As a passionate
@@ -16,9 +16,9 @@ As a passionate
 I'm always exploring new technologies and looking for opportunities to enhance my skills.
 
 - 🔭 I’m currently working on an e-commerce webapp at ATLP.
-- 🌱 I’m currently learning TypeScript.
-- 👯 I’m looking to collaborate on any interesting projects(webapps/websites).
-- 💬 Ask me about JavaScript and anything related to web development.
+- 🌱 I’m currently learning Tensorflow.
+- 👯 I’m looking to collaborate on any interesting projects.
+- 💬 Ask me about JavaScript,python and anything related to web development.
 - ⚡ Fun fact: The first banner ad appeared on the web in 1994 and had a click-through rate of 44%,talk about click bait
 - 📫 you can always reach me:
   - email: <a href="mailto:ishimwekevin45@gmail.com">_ishimwekevin45@gmail.com_</a>

@@ -7,4 +7,6 @@
     ),
     url("https://github.com/Kevin-ishimwe/Kevin-ishimwe/blob/main/bg1.png?raw=true");]{x0000}$}
 ```
-# Welcome to my Profile
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.1/css/all.css">
+
+## Hi there 👋
